@@ -1,2 +1,2 @@
-# Inventory-Management
+# Walmart-Sales-Forecasting
 tbd
